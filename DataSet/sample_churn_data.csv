@@ -1,0 +1,11 @@
+Gender,SeniorCitizen,Partner,Dependents,Tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,Churn
+Female,0,Yes,No,5,Yes,No,DSL,No,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,70.35,350.5,No
+Male,1,No,No,42,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,No,One year,Yes,Mailed check,88.85,2000.75,Yes
+Female,0,No,Yes,2,No,No,DSL,Yes,No,Yes,No,Yes,Yes,Two year,No,Bank transfer (automatic),45.3,90.6,No
+Male,0,Yes,No,35,Yes,Yes,DSL,No,Yes,No,Yes,No,Yes,Month-to-month,Yes,Electronic check,76.25,2455.5,Yes
+Female,1,Yes,No,8,Yes,No,Fiber optic,No,No,No,No,Yes,No,Two year,No,Credit card (automatic),65.9,780.0,No
+Male,0,No,Yes,22,Yes,No,DSL,Yes,Yes,Yes,No,No,Yes,Month-to-month,Yes,Mailed check,55.0,1210.0,Yes
+Female,0,Yes,Yes,12,No,No,DSL,No,Yes,Yes,Yes,Yes,No,One year,Yes,Electronic check,60.1,650.2,No
+Male,1,No,No,15,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,No,Bank transfer (automatic),84.2,1153.75,Yes
+Female,1,Yes,No,10,No,Yes,DSL,Yes,Yes,No,Yes,No,Yes,One year,Yes,Mailed check,50.15,485.5,No
+Male,0,No,Yes,29,Yes,No,DSL,Yes,No,Yes,No,Yes,Yes,Two year,No,Credit card (automatic),73.75,1768.75,Yes
